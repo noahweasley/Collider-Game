@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Collider</string>
+    <string name="start">Start Game</string>
+    <string name="enable_music">Enable music</string>
+    <string name="enable_sound_effects">Enable sound effects</string>
+    <string name="app_icon">App icon</string>
+    <string name="score">Score</string>
+    <string name="initial_user_score">0</string>
+    <string name="high_score">High Score</string>
+    <string name="game_paused">Game Paused</string>
+</resources>
